@@ -1,4 +1,4 @@
-##"Tunity-Music-Arcade"##
+▶🎵"Tunity-Music-Arcade"🎼🗯
 
 ## Getting Started
 
@@ -39,6 +39,4 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 
 ## Join the Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
-# Tunity-Music-Arcade
-# Tunity-Music-Arcade
+For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/DKNAsqzq).
